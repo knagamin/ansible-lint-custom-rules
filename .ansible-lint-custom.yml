@@ -1,0 +1,7 @@
+TaskHasInvalidName:
+  id: CONV001
+  tags:
+    - format
+  shortdesc: 'Test if task has a invalid `name` attribute'
+  description: 'Long description'
+  valid_pattern: ".* valid .*"

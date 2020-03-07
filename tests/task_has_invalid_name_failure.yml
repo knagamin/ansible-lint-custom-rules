@@ -1,0 +1,4 @@
+---
+- tasks:
+    - name: This is a invalid name
+      command: ':'
