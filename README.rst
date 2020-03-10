@@ -1,6 +1,9 @@
 ===============================================================
 ansible-lint-custom-rules
 ===============================================================
+.. image:: https://travis-ci.com/knagamin/ansible-lint-custom-rules.svg?branch=master
+   :target: https://travis-ci.com/knagamin/ansible-lint-custom-rules
+   :alt: [Test status]
 
 Description
 ===============================================================
